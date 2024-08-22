@@ -7,12 +7,11 @@ setup(
     include_package_data=True,
     install_requires=[],
     author='Khant Kyaw',
-    author_email='khantkyaw6339@gmail.com,
+    author_email='khantkyaw6339@gmail.com',
     description='Unicode Syllable break',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     url='https://github.com/khantkyaw6339/Unicode_Syllable_Break',
-    download_url='https://github.com/khantkyaw6339/Unicode_Syllable_Break/archive/0.1.0.tar.gz',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
